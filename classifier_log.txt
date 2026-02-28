@@ -1,0 +1,22 @@
+2026-02-28 01:38:06 | Use pytorch device_name: cpu
+2026-02-28 01:38:06 | Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-28 01:38:10 | Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-28 01:40:05 | INTENT=SQL      | METHOD=keyword_only              | SQL=1 SEM=0 | Q=how many adidas editions are there
+2026-02-28 01:40:21 | INTENT=SQL      | METHOD=keyword_only              | SQL=1 SEM=0 | Q=how many adidas editions are there
+2026-02-28 01:50:22 | INTENT=SQL      | METHOD=keyword_only              | SQL=1 SEM=0 | Q=how many adidas editions are there
+2026-02-28 02:12:17 | Use pytorch device_name: cpu
+2026-02-28 02:12:17 | Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-28 02:12:22 | Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-28 02:12:34 | INTENT=SQL      | METHOD=keyword_only              | SQL=1 SEM=0 | Q=how many adidas editions are there
+2026-02-28 02:24:18 | Use pytorch device_name: cpu
+2026-02-28 02:24:18 | Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-28 02:24:23 | Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-28 02:24:47 | INTENT=SEMANTIC | METHOD=product_name_pattern      | SQL=0 SEM=0 | Q=are there any adidas edition
+2026-02-28 02:25:01 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-02-28 02:26:18 | INTENT=SQL      | METHOD=keyword_only              | SQL=1 SEM=0 | Q=how many adidas brand products are there
+2026-02-28 02:41:17 | Use pytorch device_name: cpu
+2026-02-28 02:41:17 | Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2026-02-28 02:41:21 | Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-28 02:42:07 | INTENT=SEMANTIC | METHOD=product_name_pattern      | SQL=0 SEM=0 | Q=are there any adidas edition
+2026-02-28 02:42:19 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-02-28 02:48:12 | INTENT=SQL      | METHOD=keyword_only              | SQL=1 SEM=0 | Q=how many adidas branded products are there
